@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi there,ChandanaVaidya17 here👋</h1>
+<h1 align="center">Hi there,Chandana here👋</h1>
 <h3 align="center">Computer Science Student</h3>
 
 <p align="left">
