@@ -1,7 +1,7 @@
 #Hi there!! 👋
 
 <h1 align="center">Hi there,Chandana here👋</h1>
-<h3 align="center">Computer Science Student</h3>
+<h3 align="center">Computer Science and Engineering Student</h3>
 
 <p align="left">
   <img
@@ -17,8 +17,8 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Python** - 📫to reach me
-**ChandanaVaidya17@gmail.com**
+- 🌱 I’m currently learning **Python Frameworks and Machine Learning** - 📫to reach me
+**ChandanaVaidya172002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
