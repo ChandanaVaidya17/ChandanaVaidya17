@@ -96,6 +96,14 @@
       height="40"
     />
   </a>
+      <a href="[https://www.linux.org/](https://flutter.dev/)" target="_blank">
+    <img
+      src="[https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO-453x500.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflutter.dev%2Fbrand&psig=AOvVaw1MURRfGbQ_xVGQj-5isr9r&ust=1678974960750000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNCK8aGL3v0CFQAAAAAdAAAAABAE)"
+      alt="linux"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"
