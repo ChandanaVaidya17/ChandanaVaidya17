@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there,Chandana here👋</h1>
 <h3 align="center">Computer Science and Engineering Student</h3>
 
