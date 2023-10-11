@@ -24,6 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <i class="fa-brands fa-linkedin" style="color: #456cb0;"></i>
   <a href="https://www.linkedin.com/in/chandanavaidya/" target="blank">
     <label for=""></label><img align="center"
     src=https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Flinkedin-transparent.html&psig=AOvVaw3junaKNZfD7YCIJBn4AemH&ust=1620497797817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi62_SWuPACFQAAAAAdAAAAABAD"
