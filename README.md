@@ -15,6 +15,7 @@
       alt="ChandanaVaidya17"
   /></a>
 </p>
+https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif
 
 - 🌱 I’m currently learning **c# Frameworks,Python Frameworks and Machine Learning** - 📫to reach me
 **ChandanaVaidya172002@gmail.com**
