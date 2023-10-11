@@ -32,7 +32,6 @@
 
     
 </p>
-<i style="font-size:24 px" class="fa">&#xf08c;</i>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
