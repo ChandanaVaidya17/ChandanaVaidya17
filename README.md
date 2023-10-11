@@ -27,7 +27,7 @@
  
   <a href="https://www.linkedin.com/in/chandanavaidya/" target="blank">
     <label for=""></label><img align="center"
-    src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fclipart-library.com%2Ffree%2Flinkedin-transparent.html&psig=AOvVaw3junaKNZfD7YCIJBn4AemH&ust=1620497797817000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNi62_SWuPACFQAAAAAdAAAAABAD"
+    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2XGOeQso7hAqcB3BuRjytx&ust=1697141629899000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDVqejn7oEDFQAAAAAdAAAAABAE"
     alt="ChandanaVaidya17" height="30" width="40" /></a>
 </p>
 
