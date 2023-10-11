@@ -16,7 +16,7 @@
   /></a>
 </p>
 <div id = "header" align = "center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width = "100"/>
+  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width = "200"/>
 </div>
 
 - 🌱 I’m currently learning **c# Frameworks,Python Frameworks and Machine Learning** - 📫to reach me
