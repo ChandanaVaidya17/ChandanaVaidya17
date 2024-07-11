@@ -28,9 +28,7 @@
   <a href="https://www.linkedin.com/in/chandanavaidya/" target="blank">
     <label for=""></label><img align="center"
     src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw2XGOeQso7hAqcB3BuRjytx&ust=1697141629899000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDVqejn7oEDFQAAAAAdAAAAABAE"
-    alt="ChandanaVaidya17" height="30" width="40" /></a>
-
-    
+    alt="ChandanaVaidya17" height="30" width="40" /></a>    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
