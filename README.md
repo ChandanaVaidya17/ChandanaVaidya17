@@ -24,7 +24,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **c# Frameworks,Python Frameworks and Machine Learning** - 📫to reach me
+- 🌱 I’m currently learning **c# Frameworks,Python Frameworks and React.js** - 📫to reach me
 **ChandanaVaidya172002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
