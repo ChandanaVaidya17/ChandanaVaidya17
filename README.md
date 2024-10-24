@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,Chandana Bharathi Vaidya here👋</h1>
+<h1 align="center">Hi there,I am Chandana Bharathi Vaidya👋</h1>
 <h2 align="center">I'm here to explore, experiment, and contribute. Feel free to check out my projects and join me on this learning journey!</h2>
 
 <h3 align="center">Computer Science and Engineering Graduate.</h3>
