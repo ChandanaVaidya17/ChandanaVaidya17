@@ -85,11 +85,6 @@ I thrive on solving complex architectural challenges, optimizing database querie
 ## 📊 GitHub Analytics
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChandanaVaidya17&show_icons=true&theme=visual_studio_dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanaVaidya17&theme=visual_studio_dark" alt="GitHub Streak" />
 </p>
