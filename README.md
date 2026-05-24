@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Chandana Bharathi Vaidya 👋</h1>
-<h3 align="center">Backend Engineer | Node.js Specialist | Freelance Developer</h3>
+<h3 align="center">Backend Engineer | Node.js Specialist | Software Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chandanavaidya/" target="_blank">
@@ -13,13 +13,13 @@
 ---
 
 ## 🚀 About Me
-I am a **Computer Science & Engineering Graduate** and a passionate Software Developer with **2+ years of professional experience** specializing in building robust, scalable backend systems with **Node.js**. 
+I am a **Computer Science & Engineering Graduate** and an engineering professional with **2+ years of experience** specializing in building robust, scalable, and high-performance backend systems using **Node.js**. 
 
-Alongside my core development roles, I actively take on **freelance projects**, helping clients transform their ideas into production-ready software. I thrive on solving complex architectural problems, optimizing database queries, and writing clean, maintainable code.
+I thrive on solving complex architectural challenges, optimizing database queries, building reliable microservices, and writing clean, maintainable code that aligns with industry best practices.
 
-* 💼 **Looking for:** Full-time Software Engineer / Backend Developer roles & Freelance contracts.
+* 💼 **Looking for:** Full-time Software Engineer / Backend Developer roles.
 * 🌱 **Currently Upskilling In:** C# & .NET Frameworks, Python Frameworks, and React.js.
-* 🛠️ **Core Expertise:** Building RESTful APIs, Microservices, and Database Management.
+* 🛠️ **Core Expertise:** Designing RESTful APIs, Microservices Architecture, and Database Management.
 
 ---
 
@@ -99,7 +99,7 @@ Alongside my core development roles, I actively take on **freelance projects**, 
 ---
 
 ## 🤝 Let's Connect!
-Whether you have an open full-time position, a freelance project, or just want to talk about backend architecture—feel free to reach out!
+If you have an open full-time position or would like to discuss backend architecture and engineering opportunities, please feel free to reach out:
 
 * **Email:** [ChandanaVaidya172002@gmail.com](mailto:ChandanaVaidya172002@gmail.com)
 * **LinkedIn:** [linkedin.com/in/chandanavaidya](https://www.linkedin.com/in/chandanavaidya/)
